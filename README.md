@@ -2,6 +2,7 @@
 
 # Expense Tracker
 ## Frontend development project 
+### Add your monthly expenses to expense tracker to track down your yearly expenses
 [View Live Expense Tracker Project Here]( https://jas-sin82.github.io/expense-tracker/)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

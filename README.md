@@ -2,7 +2,7 @@
 
 # Expense Tracker
 ## Frontend development project 
-[View Live Project Here](https://jas-sin82.github.io/number_guess/)
+[View Live Expense Tracker Project Here]( https://jas-sin82.github.io/expense-tracker/)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 

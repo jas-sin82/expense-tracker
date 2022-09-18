@@ -1,5 +1,9 @@
 # Getting Started with Create React App
 
+# Expense Tracker
+## Frontend development project 
+[View Live Project Here](https://jas-sin82.github.io/number_guess/)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
